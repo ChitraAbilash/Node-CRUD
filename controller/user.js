@@ -29,7 +29,7 @@ exports.getUsers = async (req, res) => {
   //   lastName: item.lastname,
   //   country: item.country_name,
   // }));
-  // console.log(newValue, 'NEW VALUE');
+  // console.log(newValue, 'NEW VALUESSS');
   if (getResult) {
     res.json({
       response: getResult,
