@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch test",
+      "runtimeVersion": "chackracore/8.9.4/x64",
+      "program": "${workspaceFolder}/test.js"
+    }
+  ]
+}
